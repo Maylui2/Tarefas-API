@@ -32,14 +32,24 @@ CRUD de tarefas feito com **Spring Boot 3**, **Spring Data JPA** e **MySQL 8**.
 mvnw spring-boot:run
 
 
-src
-├─ main
-│  ├─ java/com/example/tarefas
-│  │  ├─ controller/TarefaController.java
-│  │  ├─ model/Tarefa.java
-│  │  ├─ repository/TarefaRepository.java
-│  │  └─ TarefasApplication.java
-│  └─ resources
-│     ├─ application.properties        # (local, não versionado)
-│     └─ application-example.properties
-└─ test/java/com/example/tarefas/...
+## 📁 Estrutura do Projeto
+
+```text
+src/
+  main/
+    java/
+      com/example/tarefas/
+        controller/
+          TarefaController.java
+        model/
+          Tarefa.java
+        repository/
+          TarefaRepository.java
+        TarefasApplication.java
+    resources/
+      application.properties         # (local, não versionado)
+      application-example.properties
+  test/
+    java/
+      com/example/tarefas/...
+
