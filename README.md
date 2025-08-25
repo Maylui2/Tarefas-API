@@ -11,20 +11,6 @@ CRUD de tarefas feito com **Spring Boot 3**, **Spring Data JPA** e **MySQL 8**.
 
 ---
 
-## 🔎 Sumário
-- [Tecnologias](#-tecnologias)
-- [Requisitos](#-requisitos)
-- [Configuração](#-configuração)
-- [Como rodar](#-como-rodar)
-- [Endpoints](#-endpoints)
-- [Exemplos (cURL)](#-exemplos-curl)
-- [Modelo de Dados](#-modelo-de-dados)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Postman](#-postman)
-- [Erros comuns](#-erros-comuns)
-
----
-
 ## 🧰 Tecnologias
 - Java 17
 - Spring Boot (Web)
